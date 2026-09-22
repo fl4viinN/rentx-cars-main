@@ -417,6 +417,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!---- CONTACT ---->
 ## Contact
 
-Developer @vihugoos - victorhugoos@live.com  
+Developer fl4vioenrique46@gmail.com 
 
 <p align="right"><a href="#top"> &#129045; back to top </a></p> 
